@@ -1,2 +1,26 @@
 # keylogger
-This project is a basic keylogger built with Python for educational and ethical research purposes only. It captures keystrokes from the user's keyboard and logs them to a local file. The main objective is to demonstrate how keylogging works and how attackers may abuse such techniques, helping defenders better understand and prevent such threats.
+# 🔑 Telegram Keylogger (Educational Use Only)
+
+This is a basic keylogger built in Python that captures keystrokes and sends them in batches to a specified Telegram chat using a bot.
+
+> ⚠️ **Disclaimer**  
+> This tool is for **educational purposes only**. Do **not** use it on any system without **explicit permission**. Unauthorized use may be illegal and unethical.
+
+---
+
+## 📦 Features
+
+- Captures keyboard input in real-time
+- Sends every 10 keystrokes to a Telegram bot
+- Uses `pynput` for key capture
+- Simple and lightweight
+
+---
+
+## 🚀 Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/telegram-keylogger.git
+cd telegram-keylogger
+
