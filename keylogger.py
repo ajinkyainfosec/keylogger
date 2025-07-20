@@ -5,8 +5,8 @@ import requests
 count = 0
 keys = []
 
-BOT_TOKEN = ''
-CHAT_ID = ''
+BOT_TOKEN = ''  # add your tokens
+CHAT_ID = ''    # add your chat id
 
 
 def send_to_telegram(message):
