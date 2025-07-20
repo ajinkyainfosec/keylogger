@@ -24,8 +24,8 @@ This is a basic keylogger built in Python that captures keystrokes and sends the
 3. Find your CHAT_ID using @userinfobot
 
 **4. Then update the following variables in the script:**
-   BOT_TOKEN = 'your_bot_token_here'
-   CHAT_ID = 'your_chat_id_here'
+   -BOT_TOKEN = 'your_bot_token_here'
+   -CHAT_ID = 'your_chat_id_here'
    
 **5.file structure.**
 
