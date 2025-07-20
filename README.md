@@ -21,6 +21,6 @@ This is a basic keylogger built in Python that captures keystrokes and sends the
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/telegram-keylogger.git
-cd telegram-keylogger
+git clone https://github.com/yourusername/keylogger.git
+cd keylogger
 
